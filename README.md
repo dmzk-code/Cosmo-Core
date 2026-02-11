@@ -3,7 +3,9 @@ Fast nodeJS neuralop, uses the mihomo core, downloaded and launched, enjoy.  If 
 
 ## Как включить поддержку клиента Cosmo Core в Remnawave
 В левом меню зайдите в **Правила ответов**
+
 <img width="275" height="242" alt="image" src="https://github.com/user-attachments/assets/8c4e534c-54c9-4145-98ba-e499dad0ff66" />
+
 Добавьте *строки ниже* в блок **Mihomo Clients** также как на скрине в самое начало
 ```
 [Cc]osmo-[Cc]ore|
