@@ -16,10 +16,12 @@ Fast nodeJS neuralop, uses the mihomo core, downloaded and launched, enjoy.  If 
 
 
 ## Windows version:
+![027-w](https://github.com/user-attachments/assets/97d7d6b1-df10-4062-a9e0-ca35213ca3a9)
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d2fa9176-8e91-4bd0-b263-a91562baa217)
+
 
 ## Android version:
+![027-a](https://github.com/user-attachments/assets/c2e4bac7-f3ce-4599-be2e-89f05b9b5e3c)
 
-![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/54b090e9-2f81-4a4f-9669-af9762a5f6f6)
+
 
